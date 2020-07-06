@@ -1,0 +1,35 @@
+ body{ 
+font-family: "Times New Roman"; 
+line-height:15px;
+}
+ .color{color:purple;}
+ .half-width{
+width:50%;
+float:left;
+}
+ .side-img{
+ width:50%;
+ padding-left:25%;
+ }
+.primary-btn{ 
+color: white; 
+background-color:black;
+padding: 10px 10px 10px 10px;
+border-radius:20px;
+text-decoration:none;
+}
+ h1{font-size:2em;}
+ .container{
+padding-left:5%;
+display:inline-block;
+}
+ .experience{
+padding:30px;
+margin:30px; 
+background-color:rgb(238,251,255);
+border-radius:20px;
+}
+ .experience-team{
+padding:10px;
+border-left:1px solid rgba(137,130,247,0.3);
+}
